@@ -14,6 +14,9 @@
 		1650495621DE3FB7000170CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1650495421DE3FB7000170CC /* LaunchScreen.storyboard */; };
 		1650496121DE3FB7000170CC /* egg1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1650496021DE3FB7000170CC /* egg1Tests.swift */; };
 		1650496C21DE3FB8000170CC /* egg1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1650496B21DE3FB8000170CC /* egg1UITests.swift */; };
+		1650497A21DE435F000170CC /* 226919-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1650497921DE435F000170CC /* 226919-1.jpg */; };
+		1650497C21DE43DF000170CC /* 58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1650497B21DE43DF000170CC /* 58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg */; };
+		1650497E21DE4466000170CC /* エッグ.png in Resources */ = {isa = PBXBuildFile; fileRef = 1650497D21DE4466000170CC /* エッグ.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		1650496721DE3FB8000170CC /* egg1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = egg1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1650496B21DE3FB8000170CC /* egg1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = egg1UITests.swift; sourceTree = "<group>"; };
 		1650496D21DE3FB8000170CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1650497921DE435F000170CC /* 226919-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "226919-1.jpg"; path = "../../../Desktop/226919-1.jpg"; sourceTree = "<group>"; };
+		1650497B21DE43DF000170CC /* 58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg"; path = "../../../Desktop/58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg"; sourceTree = "<group>"; };
+		1650497D21DE4466000170CC /* エッグ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "エッグ.png"; path = "../../../Downloads/エッグ.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +106,9 @@
 				1650494B21DE3FB7000170CC /* AppDelegate.swift */,
 				1650494D21DE3FB7000170CC /* ViewController.swift */,
 				1650494F21DE3FB7000170CC /* Main.storyboard */,
+				1650497921DE435F000170CC /* 226919-1.jpg */,
+				1650497D21DE4466000170CC /* エッグ.png */,
+				1650497B21DE43DF000170CC /* 58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg */,
 				1650495221DE3FB7000170CC /* Assets.xcassets */,
 				1650495421DE3FB7000170CC /* LaunchScreen.storyboard */,
 				1650495721DE3FB7000170CC /* Info.plist */,
@@ -229,8 +238,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1650497C21DE43DF000170CC /* 58472449-ニワトリの卵の標識です。透明な背景に黒いフラット-スタイル-アイコン。.jpg in Resources */,
 				1650495621DE3FB7000170CC /* LaunchScreen.storyboard in Resources */,
+				1650497E21DE4466000170CC /* エッグ.png in Resources */,
 				1650495321DE3FB7000170CC /* Assets.xcassets in Resources */,
+				1650497A21DE435F000170CC /* 226919-1.jpg in Resources */,
 				1650495121DE3FB7000170CC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
